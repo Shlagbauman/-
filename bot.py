@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import sqlite3
 from telebot import types
 
-TOKEN = '7908012801:AAEpSRMjvZi7RezHHZx4rTj9aHRlc00YxXQ'
+TOKEN ="TOKEN"
 
 bot = telebot.TeleBot(TOKEN)
 
